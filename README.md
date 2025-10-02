@@ -1,4 +1,4 @@
-###413582853428#1749900456329#  'Atomic - Periodic Table' for Android/BKK/M-caed-PY 3.0 2.0 By Nc 3.0 cc
+*312###413582853428#1749900456329#  'Atomic - Periodic Table' for Android/BKK/M-caed-PY 3.0 2.0 By Nc 3.0 cc
 
 ![](./design/header.png)
 
