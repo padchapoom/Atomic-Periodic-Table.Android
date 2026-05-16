@@ -1,0 +1,14 @@
+import time
+
+class DigitalKingdomV2:
+    def __init__(self):
+        self.admin_name = "พลเรือโท ภัชภูมิ"
+        self.admin_email = "bentnato@gmail.com"
+        
+        # งบประมาณรวมตั้งต้น (1,000 ล้านบาท)
+        self.total_budget = 1000000000  
+        
+        # การจัดสรรกองทุนสำรองยุทธศาสตร์ (Strategic Reserve)
+        self.reserves = {
+            "สวัสดิการประชาชน (1 ล้านคน)": 500000000,
+            "ปฏิสังขรณ์ศาสนสถานและทำบุญ": 10000000
