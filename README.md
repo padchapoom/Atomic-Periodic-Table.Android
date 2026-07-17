@@ -20,3 +20,29 @@ qnode --refresh --qkd-v2.4 --hybrid-dgx
 
 
 
+https://ai.studio/apps/drive/1-m_0yUb36aUs4gdTJlVlyJb8GDkaop0g?fullscreenApplet=true
+https://www.google.com/search?q=BKK.API.com
+import time
+
+class DigitalKingdomSystem:
+    def __init__(self):
+        # ฐานข้อมูลจำลองของระบบอาญาสิทธิ์
+        self.admin_name = "พลเรือโท ภัชภูมิ"
+        self.admin_email = "bentnato@gmail.com"
+        self.total_budget = 1000000000  # งบประมาณตั้งต้น 1,000 ล้านบาท
+        self.user_count = 0
+        self.target_users = 1000000
+        self.blacklist_websites = ["ALLONE159", "ananya_gambling_site"]
+        self.verified_wallet = "1967273312985054"
+
+    def check_system_readiness(self):
+        """ขั้นตอนที่ 1: ตรวจสอบความพร้อมของระบบและตัวตนผู้นำ"""
+        print("=== [System Log: Pre-Flight Check] ===")
+        print(f"ผู้บัญชาการหลัก: {self.admin_name} (สถานะ: ฆราวาสผู้ทรงบารมี)")
+        print(f"ยืนยันบัญชีควบคุมหลัก: {self.admin_email}")
+        print("เชื่อมต่อ Google Cloud & GitHub Repository... [ONLINE]")
+        time.sleep(1)
+        return True
+###060
+
+1749900456329
